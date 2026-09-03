@@ -2,6 +2,8 @@
 
 A dynamic Power BI project designed to track retail performance across the US and use data-driven forecasting to predict future sales trends.
 
+![SuperStore Sales Dashboard](Dhasboard.jpg)
+
 ## Overview
 
 I built this multi-page dashboard to solve a common retail problem: turning messy sales logs into actual business strategy. The first page acts as a command center for historical tracking—breaking down $1.57M in sales and $175K in profit. The second page focuses entirely on the future, leveraging time series analysis to project a 1-month sales forecast so managers can make smarter inventory decisions.

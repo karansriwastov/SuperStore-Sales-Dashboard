@@ -2,7 +2,7 @@
 
 A dynamic Power BI project designed to track retail performance across the US and use data-driven forecasting to predict future sales trends.
 
-![SuperStore Sales Dashboard](Dhasboard.jpg)
+![SuperStore Sales Dashboard](Dhasboard.png)
 
 ## Overview
 
